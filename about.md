@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Fiifi Arthur and I'm a Data Science Consultant.
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
+
+Instagram: https://www.instagram.com/data_coach/?hl=en
+
+Email: data_coach@outlook.com
 
 [email@domain.com](mailto:email@domain.com)
