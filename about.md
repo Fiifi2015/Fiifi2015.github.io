@@ -14,6 +14,5 @@ A place to include any other types of information that you'd like to include abo
 
 Instagram: https://www.instagram.com/data_coach/?hl=en
 
-Email: data_coach@outlook.com
-
-[email@domain.com](mailto:email@domain.com)
+Email
+[data_coach@outlook.com](mailto:data_coach@outlook.com)
