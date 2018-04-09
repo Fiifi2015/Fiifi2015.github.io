@@ -12,7 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-Instagram: https://www.instagram.com/data_coach/?hl=en
+[Instagram page: data_coach](https://www.instagram.com/data_coach/?hl=en)
 
 Email
 [data_coach@outlook.com](mailto:data_coach@outlook.com)
