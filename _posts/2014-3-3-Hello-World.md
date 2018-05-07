@@ -16,8 +16,10 @@ In 2015 I began my journey from a Data Analyst to become a Data Scientist. I wro
  This experience has helped me to coach several people into landing roles in the Data Science
 
 
+### Data Coaching Services
 
-### Data Coach Services
+
+Classification, Regression & Clustering Problems
 
 
 ### Mentoring Services
