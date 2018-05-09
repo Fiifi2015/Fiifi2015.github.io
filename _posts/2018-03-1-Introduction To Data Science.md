@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intoduction To Data Science
+title: Introduction To Data Science
 #permalink: /blog/
 ---
 
