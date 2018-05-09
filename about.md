@@ -3,9 +3,7 @@ layout: page
 title: Data Science Coach
 #permalink: /about/
 ---
-
-## Data Science Coach
-![Fiifi](https://raw.githubusercontent.com/Fiifi2015/Fiifi2015.github.io/master/images/photo1.jpeg)
+![Fiifi](https://raw.githubusercontent.com/Fiifi2015/Fiifi2015.github.io/master/images/photo1.jpeg = 250x250)
 
 My name is Fiifi Arthur and I have been working in the Data Analytics industry for almost 5 years now. I'm currently a Data Scientist with a top consulting firm in the heart of London.
 
