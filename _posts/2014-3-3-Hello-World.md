@@ -9,7 +9,7 @@ Data Coaching & Training Services In London.
 ![alt text](https://raw.githubusercontent.com/Fiifi2015/Fiifi2015.github.io/master/images/Data%20Coach%20(1).png "Data Coach")
 
 
-## About Data Coach
+## Data Coach
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -23,18 +23,17 @@ In 2015 I began my journey from a Data Analyst to become a Data Scientist. I wro
 
 
 ### Data Coaching Services
+Classification, Regression & Clustering Problems
 
 #### Data Science Pipeline
 
-| Topics                                | Data Science Tools            |
+|Topics                                | Data Science Tools            |
 | --------------------------------------|:------------------------------:|
 | Data Preparation                      | SQL, Python |
 | Data Ingest/Preprocessing             | Python      |   
-| Feature Selection                     | Python     |  
-| Grid Search                           |               |
-| Model Building   ||
-
-Classification, Regression & Clustering Problems
+| Feature Generation/Selection          | SQL, Python |  
+| Grid Search                           | Python      |
+| Model Building                        | Python  |
 
 
 ### Mentoring Services
