@@ -17,15 +17,15 @@ The perks of being a Consultant has enabled me to have experience working in ind
 - Government
 -  Media/Telecoms
 
-In 2015 I began my journey from transitioning from a Data Analyst to a Data Scientist. I wrote a medium blog post about my journey [here.](https://medium.com/@fiifi.aarthur/data-analyst-to-data-scientist-1232da18b07c)
+In 2015 I began my journey from transitioning from a Data Analyst to a Data Scientist. I wrote a medium blog post about my journey [*here.*](https://medium.com/@fiifi.aarthur/data-analyst-to-data-scientist-1232da18b07c)
 
  This experience has helped me to **coach several people into landing roles in the Data Science and Data Analytics field**. There has never been a better time in the job market for Data Scientists. Thinking about upskilling yourself or transitioning into the world of Data Science / AI, with my services and hard work we together make that happen for you.
 
 
 ### Contact me
 
-Instagram
-[data_coach](https://www.instagram.com/data_coach/?hl=en)
-
-Email
+**Email**
 [data_coach@outlook.com](mailto:data_coach@outlook.com)
+
+**Instagram**
+[data_coach](https://www.instagram.com/data_coach/?hl=en)
