@@ -4,6 +4,9 @@ title: Data Science Coaching Services
 #permalink: /about/
 ---
 
+<p align="center">
+  <img width="450" height="450" src="https://raw.githubusercontent.com/Fiifi2015/Fiifi2015.github.io/master/images/photo1.jpeg">
+</p>
 
 ### Data Coaching Services
 This service if for those who are serious about pursing Data Science as a Career. I offer coaching, mentoring and training services for you to be able to market your skills to a future employer as a Data Scientist.
@@ -11,8 +14,7 @@ This service if for those who are serious about pursing Data Science as a Career
 We will together, work on a portfolio of work which you can talk through with a potential employer in an interview style setting.  This service is tailored to each individual person background but will normally encompass teachings of statistics, software engineering (data science tools kit) and business problem solving.
 
 
-
-1 on 1 Coaching/Training – each session would be on skype where I firstly teach you the steps, code (Python/R/Scala) and methodology in approaching a Data Science problem. The aim is for the student to become proficient in understanding and explaining a Data Science problem, the tools kit required and business benefit of data science solutions to a future employer.
+> 1 on 1 Coaching/Training – each session would be on skype where I firstly teach you the steps, code (Python/R/Scala) and methodology in approaching a Data Science problem. The aim is for the student to become proficient in understanding and explaining a Data Science problem, the tools kit required and business benefit of data science solutions to a future employer.
 
 The course will cover the topics will cover Supervised (Classification & Regression) & Non-Supervised Methodologies (Clustering). Each session is £45 per hour.
 
