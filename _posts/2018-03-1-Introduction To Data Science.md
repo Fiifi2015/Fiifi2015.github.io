@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction To Data Science
-#permalink: /blog/
+permalink: /blog/
 ---
 
 ## What is Data Science

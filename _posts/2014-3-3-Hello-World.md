@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Coach Services
-#permalink: /blog/
+permalink: /blog/
 ---
 
 Data Coaching & Training Services In London.
