@@ -8,7 +8,7 @@ title: Data Science Coach
   <img width="450" height="450" src="https://raw.githubusercontent.com/Fiifi2015/Fiifi2015.github.io/master/images/potrait2.jpg">
 </p>
 
-My name is Fiifi Arthur and I have been working in the **Data Analytics industry for almost 5 years now**. I'm currently a Data Scientist with a top consulting firm in the heart of London.
+My name is Fiifi Arthur and I have been working in the **Data Analytics industry for almost 7 years now**. I'm currently a Data Scientist with a top consulting firm in the heart of London.
 
 The perks of being a Consultant has enabled me to have experience working in industries like:
 - Fashion
@@ -27,4 +27,4 @@ In 2015 I began my journey from transitioning from a Data Analyst to a Data Scie
 [data_coach@outlook.com](mailto:data_coach@outlook.com)
 
 **Instagram**
-[data_coach](https://www.instagram.com/data_coach/?hl=en)
+[data_science_coach](https://www.instagram.com/data_coach/?hl=en)

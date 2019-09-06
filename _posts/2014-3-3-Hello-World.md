@@ -14,7 +14,7 @@ Data Coaching & Training Services In London.
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-My name is Fiifi Arthur and I have been working in the Data Analytics industry for almost 5 years now. I'm current a Data Scientist with a top consulting firm in the heart of London.
+My name is Fiifi Arthur and I have been working in the Data Analytics industry for almost 7 years now. I'm current a Data Scientist/AI Engineer with a top consulting firm in the heart of London.
 
 The perks of being a Consultant has enabled me to have experience working in industries like Fashion/Retail, Finance, Government and Telecoms.
 
